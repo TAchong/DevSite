@@ -24,7 +24,7 @@ a {
     color: rgb(245, 221, 70);
   }
 section{
-    background: url(/pexels-paduret-4041750.jpg);
+    background: url(pexels-paduret-4041750.jpg);
     /* background-color: #000; */    
     min-height: 150vh;
     max-width: 200rem;
